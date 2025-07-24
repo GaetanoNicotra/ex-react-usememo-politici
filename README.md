@@ -1,4 +1,7 @@
- <strong>Premessa</strong>: Stai costruendo una pagina per visualizzare una lista di politici. Tuttavia, vuoi evitare calcoli inutili e ottimizzare la performance del tuo componente. Segui le milestone per migliorare progressivamente il codice
+
+<h1>EX - Lista di Politici</h1>
+
+<strong>Premessa</strong>: Stai costruendo una pagina per visualizzare una lista di politici. Tuttavia, vuoi evitare calcoli inutili e ottimizzare la performance del tuo componente. Segui le milestone per migliorare progressivamente il codice
 
 - 📌 Milestone 1: Recuperare e visualizzare i dati
 
